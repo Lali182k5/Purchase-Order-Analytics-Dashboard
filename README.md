@@ -72,7 +72,7 @@ Purchase_Order_Analytics_Dashboard/
 
 ## 1. Company Code Validation (T001)
 
-![T001 Table Display](Screenshots/01_t001_table_display.png)
+![T001 Table Display](Screenshots/01_t001_table_display.png.png)
 
 ![T001 Entries](Screenshots/02_t001_entries_found.png)
 
