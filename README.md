@@ -45,7 +45,7 @@ The procurement team required:
 ---
 
 ## Folder Structure
-
+```
 Purchase_Order_Analytics_Dashboard/
 │
 ├── README.md
@@ -65,43 +65,45 @@ Purchase_Order_Analytics_Dashboard/
 │
 └── docs/
     └── Final_Purchase_Order_Analytics_Dashboard_Documentation.pdf
+```
+
 
 ## Screenshots
 
 ## 1. Company Code Validation (T001)
 
-![T001 Table Display](screenshots/01_t001_table_display.png)
+![T001 Table Display](Screenshots/01_t001_table_display.png)
 
-![T001 Entries](screenshots/02_t001_entries_found.png)
+![T001 Entries](Screenshots/02_t001_entries_found.png)
 
 ---
 
 ## 2. Purchase Order Validation (EKKO)
 
-![EKKO Table Display](screenshots/03_ekko_table_display.png)
+![EKKO Table Display](Screenshots/03_ekko_table_display.png)
 
-![EKKO Purchase Orders](screenshots/04_ekko_purchase_orders.png)
+![EKKO Purchase Orders](Screenshots/04_ekko_purchase_orders.png)
 
 ---
 
 ## 3. Selection Screen
 
-![Selection Screen](screenshots/05_selection_screen_nspl.png)
+![Selection Screen](Screenshots/05_selection_screen_nspl.png)
 
 ---
 
 ## 4. ALV Output Report
 
-![ALV Output](screenshots/06_alv_output.png)
+![ALV Output](Screenshots/06_alv_output.png)
 
 ---
 
 ## 5. Drill-Down to ME23N
 
-![ME23N Drilldown](screenshots/07_me23n_drilldown.png)
+![ME23N Drilldown](Screenshots/07_me23n_drilldown.png)
 
 ---
 
 ## 6. ABAP Program Code
 
-![ABAP Program](screenshots/08_abap_program_code.png)
+![ABAP Program](Screenshots/08_abap_program_code.png)
